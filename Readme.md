@@ -38,8 +38,8 @@ io.on("connection", (socket) => {
   "email": test@gmail.com
 }
 ```
-![postman_1](https://github.com/Saveliy113/message_minds_instruction/blob/master/screenshots/instr1.jpg)  
-![postman_2](https://github.com/Saveliy113/message_minds_instruction/blob/master/screenshots/instr_2.jpg)  
+![postman_2](https://github.com/Saveliy113/message_minds_instruction/blob/master/screenshots/instr_2.jpg) 
+![postman_1](https://github.com/Saveliy113/message_minds_instruction/blob/master/screenshots/instr1.jpg)   
 - You will receive a generated QR-code in terminal. Scan it with your phone to authenticate and create session.
 
 To start starter move to a project folder, open a terminal and execute command:  
