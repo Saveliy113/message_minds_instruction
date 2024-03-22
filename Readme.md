@@ -1,5 +1,5 @@
 # How to start Message-Minds API and Starter
-To properly start Message-Minds API with socket.io you need to go through the following steps:
+To start Message-Minds API with socket.io you need to go through the following steps:
 
 - Uncomment this section of code in _server.js_ file (lines 58 to 75):   
 ```
