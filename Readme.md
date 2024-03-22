@@ -42,7 +42,7 @@ io.on("connection", (socket) => {
 ![postman_2](https://github.com/Saveliy113/message_minds_instruction/blob/master/screenshots/instr2.jpg)
 - You will receive a generated QR-code in terminal. Scan it with your phone to authenticate and create session.
 
-To start starter move to a project folder, open a terminal and execute this command:  
+To start starter move to a project folder, open a terminal and execute command:  
 `pm2 start server.js --name starter`
 
-If you need to test recreating whatsapp sessions functionality by starter, reload servers by executing command: `pm2 reload server`. And then reload a starter: `pm2 reload starter`. It will recreate sessions for those clients, who has an online status and hasn't session in any server.
+To test recreating whatsapp sessions functionality by starter, reload servers by executing command: `pm2 reload server`. And then reload a starter: `pm2 reload starter`. It will recreate sessions for those clients, who has an online status and hasn't session in any server.
